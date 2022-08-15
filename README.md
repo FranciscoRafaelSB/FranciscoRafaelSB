@@ -8,7 +8,7 @@
       src="https://komarev.com/ghpvc/?username=franciscorafaelsb&label=Profile%20views&color=0e75b6&style=flat"
       alt="franciscorafaelsb" /> </p>
 
-  - 🔭 I’m currently working on **Expert APP.**
+  - 🔭 I’m currently working on **NextJS APPS.**
 
   - 🌱 I’m currently learning **Phyton.**
 
